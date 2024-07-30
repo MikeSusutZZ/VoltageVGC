@@ -1,0 +1,12 @@
+/* src/custom.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .jumbotron {
+    background: url('../../public/zacian1.png') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+  }
+  
